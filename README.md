@@ -89,7 +89,7 @@ Primeiro, clone o repositório, entre na pasta do projeto e instale todas as dep
 
 ```
 # 1. Clone o seu repositório
-git clone https://github.com/ronaldo-lima-junior/ozmap.git
+git clone https://github.com/ronaldo-lima-junior/ozmap
 
 # 2. Entre na pasta do projeto
 cd ozmap
